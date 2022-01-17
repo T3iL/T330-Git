@@ -7,13 +7,25 @@ git add .
 git commit -m 'initial commit'
 git log / git log --oneline
 git checkout <hash>
+
+git clone
+
+-----------------------
+
+git config --global user.name
+git config --global user.email
+
+git remote -v origin <url>
 git pull
 git push
-git clone
 
 ```
 
+
+
 [WDS - 10 Must Know Git Commands That Almost Nobody Knows](https://youtu.be/mnmYwRoSisg)
+
+
 
 
 ```
