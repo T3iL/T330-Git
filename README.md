@@ -17,6 +17,7 @@ https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fo
 ### ---------Stock Img
 https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
 ### ---------Tuts
+[Git i GitHub – podstawy ⌨️ hello roman #92](https://youtu.be/9qrgY2Dw30g)
 [Git i GitHub w 60 minut](https://www.youtube.com/watch?v=Ebe9D5zRkvM)
 
 
