@@ -1,5 +1,9 @@
 # T330-Git
 
+Link Live share:
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?5D8C4D2689ABF1F7E880694648BE0B2761EE
+
 ```cmd
 
 git init
