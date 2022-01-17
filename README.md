@@ -16,6 +16,17 @@ git clone
 [WDS - 10 Must Know Git Commands That Almost Nobody Knows](https://youtu.be/mnmYwRoSisg)
 
 
+```
+ZADANIET33001 Zarejestruj wszystkie kolejne zmiany w projekcie jako kolejne commity
+1. utwórz plik index.html z zawartością
+2. utwórz plik style.css
+3. utwórz plik main.js
+4. dołącz js do strony
+5. dołącz css do strony
+6. umieść obrazek (stock) na środku strony
+7. Zanimuj narozniki obrazka po kliknięciu na niego (przełączanie => kwadrat <> kółko)
+```
+
 ### --------Links
 https://github.com/T3iL/T330-Git
 
