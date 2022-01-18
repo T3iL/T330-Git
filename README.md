@@ -34,9 +34,13 @@ ZADANIET33001 Zarejestruj wszystkie kolejne zmiany w projekcie jako kolejne comm
 3. utwórz plik main.js
 4. dołącz js do strony
 5. dołącz css do strony
-6. umieść obrazek (stock) na środku strony
+6. umieść obrazek (stock) na środku strony (w poziomie i w pionie)
 7. dopasuj wymiary obrazka 300x300
 8. Zanimuj narozniki obrazka po kliknięciu na niego (przełączanie => kwadrat <> kółko)
+------------------------------
+9. Utwórz zdalne repozytorium (prywatne)
+10. Wyślij zmiany do zdalnego repozytorium
+11. Udostępnij zdalne repozytorium dla pozostałych uczniów
 ```
 
 ### --------Links
