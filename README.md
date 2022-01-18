@@ -2,7 +2,7 @@
 
 Link Live share:
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?5D8C4D2689ABF1F7E880694648BE0B2761EE
+https://prod.liveshare.vsengsaas.visualstudio.com/join?4C7E65631D6D2178DD71A9AFB04869B2CAB4
 
 ```cmd
 
@@ -25,12 +25,7 @@ git push
 
 ```
 
-
-
 [WDS - 10 Must Know Git Commands That Almost Nobody Knows](https://youtu.be/mnmYwRoSisg)
-
-
-
 
 ```
 ZADANIET33001 Zarejestruj wszystkie kolejne zmiany w projekcie jako kolejne commity
@@ -47,6 +42,9 @@ ZADANIET33001 Zarejestruj wszystkie kolejne zmiany w projekcie jako kolejne comm
 https://github.com/T3iL/T330-Git
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
+
+https://code.visualstudio.com/
+https://git-scm.com/
 
 ### --------Repositiories
 https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com |
