@@ -35,7 +35,8 @@ ZADANIET33001 Zarejestruj wszystkie kolejne zmiany w projekcie jako kolejne comm
 4. dołącz js do strony
 5. dołącz css do strony
 6. umieść obrazek (stock) na środku strony
-7. Zanimuj narozniki obrazka po kliknięciu na niego (przełączanie => kwadrat <> kółko)
+7. dopasuj wymiary obrazka 300x300
+8. Zanimuj narozniki obrazka po kliknięciu na niego (przełączanie => kwadrat <> kółko)
 ```
 
 ### --------Links
